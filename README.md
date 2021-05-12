@@ -12,8 +12,19 @@ I am familar with unsupervised and supervised learning algorithm??
 
 ## Three significant coding elements:
 - One full piece on supervised learning and one full piece on unsupervised learning
-    - probably use hw
+    - k-means from HW2; comparsion of my implementation and sklearn
+    - 
 - At least one revised assignment from this course (either a project or a homework) 
     - maybe expand on project2
 - Something entirely new
-    - i can try apply ml to astronomy dataset bruhhh
+    - i can try apply ml to astronomy dataset 
+
+
+## Plan
+Use the same exoplanets dataset to perform four different task using different algorithm.
+## Dataset
+The exoplanet dataset is extracted from the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
+
+## TODO
+1. data exploration
+2. supervised learning - linear regression [radius and mass]
