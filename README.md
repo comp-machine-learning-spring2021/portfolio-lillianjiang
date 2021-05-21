@@ -12,8 +12,8 @@ I am a member of the Exoplanet Team at Smith College under the supervision of Pr
 
 
 - [KMeans: Finding Different types of Exoplanets](https://github.com/comp-machine-learning-spring2021/portfolio-lillianjiang/tree/main/KMeans)
-- [Regression: Mass Period relationship](https://github.com/comp-machine-learning-spring2021/portfolio-lillianjiang/tree/main/Mass-Radius)
-- [Make Predictions for Missing Orbit Semi-Major Axis](https://github.com/comp-machine-learning-spring2021/portfolio-lillianjiang/tree/main/Prediction)
+- [Interpret Stellar Metallicity from Planet information](https://github.com/comp-machine-learning-spring2021/portfolio-lillianjiang/tree/main/Mass-Radius)
+- [Make Predictions for Missing Orbit Semi-Major Axis Values](https://github.com/comp-machine-learning-spring2021/portfolio-lillianjiang/tree/main/Prediction)
 
 ## Dataset
 The exoplanet dataset is extracted from the NASA Exoplanet Archive: http://exoplanetarchive.ipac.caltech.edu
