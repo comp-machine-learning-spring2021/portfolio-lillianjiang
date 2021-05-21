@@ -11,10 +11,10 @@ The data is from the NASA Exoplanet Archive: https://exoplanetarchive.ipac.calte
 
 ## Key Result
 See detailed discussion in Jupiter Notebook. 
-![plot](https://github.com/comp-machine-learning-spring2021/portfolio-lillianjiang/blob/main/KMeans/result1.png) 
+![](https://github.com/comp-machine-learning-spring2021/portfolio-lillianjiang/blob/main/KMeans/result1.png) 
 
 ## Unit test pass
-![plot] (https://github.com/comp-machine-learning-spring2021/portfolio-lillianjiang/blob/main/KMeans/kmeans_local_pass.png)
+https://github.com/comp-machine-learning-spring2021/portfolio-lillianjiang/blob/main/KMeans/kmeans_local_pass.png
 
 ## Reference
 https://exoplanets.nasa.gov/what-is-an-exoplanet/overview/ \
