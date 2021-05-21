@@ -9,6 +9,7 @@ I am interested in finding the clusters for exoplanets to see if there are some 
 ## Dataset
 The data is from the NASA Exoplanet Archive: https://exoplanetarchive.ipac.caltech.edu/index.html. I extract the exoplanets that are found by Transit Method into `../Data/confirm_transit.csv`. 
 
+
 ## Methods & Key Result
 See detailed discussion in Jupiter Notebook. \
 ![plot](https://github.com/comp-machine-learning-spring2021/portfolio-lillianjiang/blob/main/KMeans/result1.png) 
