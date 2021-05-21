@@ -10,6 +10,10 @@ I am familar with unsupervised and supervised learning algorithm??
 - Your interests beyond machine learning
     - I would like to apply machine learning onto my astronomy research, helping me to build up data analysis on exoplanet exploration. Besides research, I am a visual designer in music industry, and I can speak four languages.
 
+## Motivation 
+I am a member of the Exoplanet Team at Smith College under the supervision of Professor James Lowenthal. We use Smith College’s 16-inch Meade LX200 ACF Schmidt-Cassegrain telescope to detect transiting exoplanets. I am interested to probe around the current dataset of transiting exoplanets and study the overall model for them. I will use the same [exoplanets dataset]() to perform four different task using different algorithm.
+
+
 ## Three significant coding elements:
 - One full piece on supervised learning and one full piece on unsupervised learning
     - k-means from HW2; comparsion of my implementation and sklearn
@@ -21,9 +25,9 @@ I am familar with unsupervised and supervised learning algorithm??
 
 
 ## Plan
-Use the same exoplanets dataset to perform four different task using different algorithm.
+
 ## Dataset
-The exoplanet dataset is extracted from the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
+The exoplanet dataset is extracted from the NASA Exoplanet Archive: http://exoplanetarchive.ipac.caltech.edu
 
 ## TODO
 1. data exploration
