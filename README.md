@@ -3,7 +3,7 @@
 ## About me
 Hello World, My name is Lillian. I am currently a junior student at Smith College, majoring in computer science and astronomy. My research interests are exoplanets, computational simulations, and machine learning.
 
-After taking CSC294 Computational Machine Learning, I am familar with unsupervised and supervised learning algorithm for both classification and prediction tasks at an computational level. I am an advanced-level programmer in Python.
+After taking CSC294 Computational Machine Learning, I am familar with unsupervised and supervised learning algorithm for both classification and prediction tasks at a computational level. I am an advanced-level programmer in Python.
 
 I would like to apply machine learning onto my astronomy research, helping me to build up data analysis on exoplanet exploration. Besides research, I am a visual designer in music industry, and I can speak four languages.
 
